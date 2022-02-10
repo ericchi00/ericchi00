@@ -10,3 +10,5 @@ Started on 1/23/2022
 2/4: 80% done with Foundations; currently working on the Test Driven Development exercises
 
 2/8: 87% done. Completed rock paper scissors project with a GUI, and now starting on Project: Etch a Sketch!
+
+2/10: 89% done. Finished Project Etch a Sketch, took a while to get the .addEventListener logic to work.
