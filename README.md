@@ -12,3 +12,5 @@ Started on 1/23/2022
 2/8: 87% done. Completed rock paper scissors project with a GUI, and now starting on Project: Etch a Sketch!
 
 2/10: 89% done. Finished Project Etch a Sketch, took a while to get the .addEventListener logic to work.
+
+2/15: 91% done. Took a small weekend break. The javascript exercises got a lot more challenging
