@@ -14,3 +14,5 @@ Started on 1/23/2022
 2/10: 89% done. Finished Project Etch a Sketch, took a while to get the .addEventListener logic to work.
 
 2/15: 91% done. Took a small weekend break. The javascript exercises got a lot more challenging
+
+2/17: 93% done. Finished Calculator Project. Operate function and adding decimal support took a lot longer than expected
