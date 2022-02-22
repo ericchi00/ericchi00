@@ -20,3 +20,5 @@ Started on 1/23/2022
 2/18: 100% with Foundations. Fixed small bugs with Calculator. Starting on Full Stack Javascript.
 
 2/21: 69% done with Intermediate HTML and CSS. Working on Project Sign Up Form.
+
+2/22: 73% done with Intermediate HTML and CSS. finished the sign up form with limited functionality.
