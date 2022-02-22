@@ -18,3 +18,5 @@ Started on 1/23/2022
 2/17: 93% done. Finished Calculator Project. Operate function and adding decimal support took a lot longer than expected
 
 2/18: 100% with Foundations. Fixed small bugs with Calculator. Starting on Full Stack Javascript.
+
+2/21: 69% done with Intermediate HTML and CSS. Working on Project Sign Up Form.
