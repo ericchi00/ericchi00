@@ -24,3 +24,5 @@ Started on 1/23/2022
 2/22: 73% done with Intermediate HTML and CSS. finished the sign up form with limited functionality.
 
 2/24: 10% complete on Javascript section. Working on Project Library
+
+2/28: finished project Library. Took a while to get the logic down to remove the obj in the array and the dom element
