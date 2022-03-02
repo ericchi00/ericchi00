@@ -26,3 +26,5 @@ Started on 1/23/2022
 2/24: 10% complete on Javascript section. Working on Project Library
 
 2/28: finished project Library. Took a while to get the logic down to remove the obj in the array and the dom element
+
+3/2: finished Project Tic Tac Toe. 16% complete with Javascript.
