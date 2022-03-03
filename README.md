@@ -1,5 +1,4 @@
-Following along The Odin Project foundations and eventually moving on to the Full Stack Javascript path.
-Using this to track progress
+The Odin Project
 
 Started on 1/23/2022
 
