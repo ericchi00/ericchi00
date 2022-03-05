@@ -1,4 +1,4 @@
-The Odin Project
+The Odin Project Progress
 
 Started on 1/23/2022
 
@@ -27,3 +27,5 @@ Started on 1/23/2022
 2/28: finished project Library. Took a while to get the logic down to remove the obj in the array and the dom element
 
 3/2: finished Project Tic Tac Toe. 16% complete with Javascript.
+
+3/4: 27% Complete with Javascript. Working on Project To Do List. Getting used to webpacks
