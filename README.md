@@ -1,6 +1,6 @@
-The Odin Project Progress
+# The Odin Project Progress
 
-Started on 1/23/2022
+## Started on 1/23/2022
 
 1/28: 57% done on Foundations, currently doing Project: Landing Page
 
@@ -29,3 +29,5 @@ Started on 1/23/2022
 3/2: finished Project Tic Tac Toe. 16% complete with Javascript.
 
 3/4: 27% Complete with Javascript. Working on Project To Do List. Getting used to webpacks
+
+3/9: 27% compelte still. Finally finished project function on the To Do List. Now to implement local storage
