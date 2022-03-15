@@ -31,3 +31,5 @@
 3/4: 27% Complete with Javascript. Working on Project To Do List. Getting used to webpacks
 
 3/9: 27% Complete with Javascript. Finally finished project function on the To Do List. Now to implement local storage
+
+3/15: 48% Complete with Javascript. Starting Project Weather App
