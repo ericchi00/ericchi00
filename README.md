@@ -33,3 +33,5 @@
 3/9: 27% Complete with Javascript. Finally finished project function on the To Do List. Now to implement local storage
 
 3/15: 48% Complete with Javascript. Starting Project Weather App
+
+3/20: 54% Complete with Javascript. Finished weather app, it was pretty fun to make. Also finished project testing practice. Caesar Cipher was a bit hard
