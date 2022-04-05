@@ -37,3 +37,5 @@
 3/20: 54% Complete with Javascript. Finished weather app, it was pretty fun to make. Also finished project testing practice. Caesar Cipher was a bit hard
 
 4/1: Took a one week break. 56% complete. Working on Battleship project. Learning how to do testing to ensure functions work as expected
+
+4/5: 63% Complete. Finished Battleship project and now learning React.
