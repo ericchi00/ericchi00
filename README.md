@@ -39,3 +39,5 @@
 4/1: Took a one week break. 56% complete. Working on Battleship project. Learning how to do testing to ensure functions work as expected
 
 4/5: 63% Complete. Finished Battleship project and now learning React.
+
+4/11: 81% Complete. Finished Project Memory Card.
