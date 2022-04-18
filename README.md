@@ -41,3 +41,5 @@
 4/5: 63% Complete. Finished Battleship project and now learning React.
 
 4/11: 81% Complete. Finished Project Memory Card.
+
+4/18: Working on a Reddit Clone for Javascript Capstone Project.
