@@ -43,3 +43,5 @@
 4/11: 81% Complete. Finished Project Memory Card.
 
 4/18: Working on a Reddit Clone for Javascript Capstone Project.
+
+5/1: almost done with capstone project. Working on finishing touches
