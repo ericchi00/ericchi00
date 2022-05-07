@@ -47,3 +47,5 @@
 5/1: almost done with capstone project. Working on finishing touches
 
 5/2: finished reddit clone project. Learning Express & NodeJS
+
+5/7: 54% done with NodeJS. Currently starting Inventory Application project.
