@@ -1,8 +1,15 @@
 I am currently doing The Odin Project web development course.
 
-Technical Stack:
-HTML, CSS, JavaScript, React, Jest, Firebase, NodeJS, Express, MongoDB
-
-Currently looking for a junior developer position.
-
-https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=3333)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+  ![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)  
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js) 
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
